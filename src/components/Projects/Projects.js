@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import Balsam from "../../Assets/Projects/Balsam.jpg";
+import Balsam from "../../Assets/Projects/Basam.jpg";
 import github from "../../Assets/Projects/github.jpg";
 
 function Projects() {
